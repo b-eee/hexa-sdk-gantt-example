@@ -1,4 +1,4 @@
-# Hexa-gantt-example
+# example-js-gantt
 
 Example of reservation management app
 
